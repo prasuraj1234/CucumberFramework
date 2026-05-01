@@ -1,11 +1,11 @@
-# Topics
+# Selenium Java Project
 
-long term projct for more regression test cycle are available.
+This project contains Java programs using Selenium.
+<br>
+Webdriver interfaces
 
 ## Features
-1. Search contest
-2. Remote webdriver
-3. Webdriver
+- Selenium automation basics
 
 ## Author
-Suraj prakash
+Suraj Prakash
