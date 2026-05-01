@@ -1,11 +1,10 @@
-# Selenium Java Project
+# Project Details
+This is another code documentation file of the Selenium WebDriver.
 
-This project contains Java programs using Selenium.
-<br>
-Webdriver interfaces
-
-## Features
-- Selenium automation basics
+## Topics
+1. Search contest
+2. Webdriver
+3. Remote webdriver
 
 ## Author
 Suraj Prakash
